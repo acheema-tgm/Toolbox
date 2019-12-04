@@ -1,8 +1,8 @@
-# OATH-Authentication
+# OAUTH-Authentication
 
 An OATH token is a secure one time password that can be used for two factor authentication.  The first factor is something you know (a password, mother's maiden name) while the second factor is something you have (a smartphone, email address, etc.).  The OATH token is sent to something you have as a one time password to increase security in authentication.
 
-## Uses for OATH
+## Uses for OAUTH
 
 **Self service password reset** - When users are locked out or forget their passwords, you need an additional means of verifying their identity.  The traditional method is a series of knowledge based questions (mother's maiden name, eye color, etc).  However, since most of this information can be gleaned from social media profiles, an OATH token as a second factor is almost mandatory to determine the user's identity.
 
