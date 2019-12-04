@@ -1,1 +1,2 @@
+# OATH-Authentication
 An OATH token is a secure one time password that can be used for two factor authentication.  The first factor is something you know (a password, mother's maiden name) while the second factor is something you have (a smartphone, email address, etc.).  The OATH token is sent to something you have as a one time password to increase security in authentication.
